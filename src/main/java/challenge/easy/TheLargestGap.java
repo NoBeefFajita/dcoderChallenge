@@ -1,4 +1,4 @@
-package dicoder;
+package challenge.easy;
 
 /* 정수 배열 입력받아 요소의 차 값이 가장 큰 값을 찾아라
  * 요소 수, 요소 순으로 입력
